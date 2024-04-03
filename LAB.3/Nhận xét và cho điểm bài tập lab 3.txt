@@ -1,0 +1,20 @@
+Đoạn code em tách riêng ra từng bài tập kèm ảnh chạy chương trình
+
+- Bài 1: sử dụng function, kiến thức vượt kiến thức lab 1,2,3. 
+Làm được câu a
+Điểm bài tập: 0.25
+
+- Bài 2: 
+sử dụng function, kiến thức vượt kiến thức lab 1,2,3
+Điểm bài tập: 1.0
+
+- Bài 3:
+sử dụng function, kiến thức vượt kiến thức lab 1,2,3
+Làm được câu b, d, e
+Điểm bài tập: 1.5
+
+- Bài 4:
+sử dụng function, kiến thức vượt kiến thức lab 1,2,3
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 3: 3.25
